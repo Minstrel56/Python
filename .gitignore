@@ -12,3 +12,6 @@
 # игнорироват
 
 FirstTry/Files/passwords.txt
+FirstTry/.idea/
+FirstTry/__pycache__/
+FirstTry/venv/
