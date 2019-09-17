@@ -1,0 +1,39 @@
+ Volume in drive F has no label.
+ Volume Serial Number is 9194-DEB0
+
+ Directory of F:\PythonProject\FirstTry
+
+09/16/2019  02:18 PM    <DIR>          .
+09/16/2019  02:18 PM    <DIR>          ..
+09/16/2019  01:17 PM    <DIR>          .idea
+09/16/2019  01:07 PM               139 1.py
+09/06/2019  03:31 PM               573 10lesson-ifthenesle.py
+09/09/2019  05:00 PM               249 111.py
+09/06/2019  03:44 PM               547 11lesson-dictionary.py
+09/06/2019  04:06 PM               692 12lesson-dictionary2.py
+09/09/2019  01:33 PM             1,184 13lesson-input.py
+09/12/2019  12:37 PM               944 14lesson-function.py
+09/09/2019  03:46 PM               596 15-lesson-function2.py
+09/09/2019  04:05 PM               159 16lesson-modules.py
+09/06/2019  02:59 PM               479 4lesson-variables.py
+09/05/2019  01:44 PM             1,056 5lesson-strings.py
+09/05/2019  01:51 PM               212 6lesson-numbers.py
+09/05/2019  02:04 PM               306 7lesson-loops.py
+09/05/2019  04:35 PM             1,211 8lession-lists.py
+09/05/2019  05:34 PM               913 9lesson-lists2.py
+09/13/2019  02:23 PM    <DIR>          Files
+09/09/2019  03:58 PM               136 lesson16.py
+09/12/2019  01:52 PM               435 lesson17-classes.py
+09/12/2019  02:14 PM             1,777 lesson17_hero.py
+09/12/2019  02:20 PM               498 lesson18_classes2.py
+09/12/2019  03:24 PM             1,359 lesson19-files.py
+09/12/2019  04:55 PM             1,133 lesson20_exceptions.py
+09/16/2019  01:10 PM             2,088 lesson21-json.py
+09/16/2019  02:18 PM             1,644 lesson22-arguments.py
+09/12/2019  01:46 PM               593 math.py
+09/16/2019  02:18 PM                 0 test.txt
+09/16/2019  02:18 PM    <DIR>          TestDir
+09/05/2019  01:53 PM    <DIR>          venv
+09/12/2019  02:14 PM    <DIR>          __pycache__
+              25 File(s)         18,923 bytes
+               7 Dir(s)  133,213,011,968 bytes free
