@@ -11,7 +11,7 @@
 ### doc/*.txt
 # игнорироват
 
-FirstTry/Files/passwords.txt
-FirstTry/.idea/
-FirstTry/__pycache__/
-FirstTry/venv/
+#FirstTry/Files/passwords.txt
+#FirstTry/.idea/
+#FirstTry/__pycache__/
+#FirstTry/venv/
