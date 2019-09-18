@@ -1,11 +1,11 @@
  Volume in drive F has no label.
  Volume Serial Number is 9194-DEB0
 
- Directory of F:\PythonProject\FirstTry
+ Directory of F:\Projects\Python\FirstTry
 
-09/16/2019  02:18 PM    <DIR>          .
-09/16/2019  02:18 PM    <DIR>          ..
-09/16/2019  01:17 PM    <DIR>          .idea
+09/18/2019  12:29 PM    <DIR>          .
+09/18/2019  12:29 PM    <DIR>          ..
+09/18/2019  12:14 PM    <DIR>          .idea
 09/16/2019  01:07 PM               139 1.py
 09/06/2019  03:31 PM               573 10lesson-ifthenesle.py
 09/09/2019  05:00 PM               249 111.py
@@ -21,7 +21,7 @@
 09/05/2019  02:04 PM               306 7lesson-loops.py
 09/05/2019  04:35 PM             1,211 8lession-lists.py
 09/05/2019  05:34 PM               913 9lesson-lists2.py
-09/13/2019  02:23 PM    <DIR>          Files
+09/17/2019  03:10 PM    <DIR>          Files
 09/09/2019  03:58 PM               136 lesson16.py
 09/12/2019  01:52 PM               435 lesson17-classes.py
 09/12/2019  02:14 PM             1,777 lesson17_hero.py
@@ -30,10 +30,14 @@
 09/12/2019  04:55 PM             1,133 lesson20_exceptions.py
 09/16/2019  01:10 PM             2,088 lesson21-json.py
 09/16/2019  02:18 PM             1,644 lesson22-arguments.py
+09/16/2019  02:53 PM             1,393 lesson23-regexpression1.py
+09/16/2019  03:24 PM               854 lesson24-regexpressions2.py
+09/16/2019  04:33 PM               152 lesson30-sql.py
+09/18/2019  12:29 PM               763 lessonA-1-recursion.py
 09/12/2019  01:46 PM               593 math.py
-09/16/2019  02:18 PM                 0 test.txt
-09/16/2019  02:18 PM    <DIR>          TestDir
-09/05/2019  01:53 PM    <DIR>          venv
-09/12/2019  02:14 PM    <DIR>          __pycache__
-              25 File(s)         18,923 bytes
-               7 Dir(s)  133,213,011,968 bytes free
+09/18/2019  12:29 PM                 0 test.txt
+09/18/2019  12:29 PM    <DIR>          TestDir
+09/17/2019  03:10 PM    <DIR>          venv
+09/17/2019  03:10 PM    <DIR>          __pycache__
+              29 File(s)         22,085 bytes
+               7 Dir(s)  131,093,659,648 bytes free

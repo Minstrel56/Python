@@ -23,7 +23,7 @@ else:
 TestD='TestDir'
 if os.path.isdir('TestDir'):
     os.rmdir('TestDir')
-    print('%s was deleted' % TestD)
+    print('%s was deleted' % TestD) ### %s форматирование для вывода строки из TestD
 if os.path.isfile('test.txt'):
     os.remove('test.txt')
     print('test.txt was deleted')
