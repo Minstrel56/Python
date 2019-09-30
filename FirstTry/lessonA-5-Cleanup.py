@@ -32,7 +32,7 @@ def delete_old_files(folder):
                 print("Deleted file: "+str(filename))
                 os.remove(filename)   ### удаление файла
 
-def delete_empty_dirs(folder):
+def delete_empty_dirs(folder):v
     global total_deleted_dirs
     x = total_deleted_dirs
     for path, dirs, files, in os.walk(folder):
