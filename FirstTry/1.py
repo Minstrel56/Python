@@ -1,5 +1,16 @@
-x = 10
-y = 0
-for i in range(1, x+1):
-    y = y+(1/(i**2))
+def duplicate_encode(word):
+    #your code here
+    y=''
+    for i in word:
+        x=0
+ #       print(i)
+        for z in word:
+            if i.lower() == z.lower():
+                x+=1
+        if x > 1:
+            y+=")"
+        else:
+            y+="("
     print(y)
+
+duplicate_encode("Success")
